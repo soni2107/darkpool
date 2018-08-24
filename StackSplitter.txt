@@ -21,3 +21,4 @@
         <Label Name="lblRight" Content="Right" Background="White" Grid.Column="1"/>
     </Grid>
 </Page>
+this is the edited version dev2
